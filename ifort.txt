@@ -1,0 +1,14 @@
+[nike@gra-login1 ParFit]$ which ifort
+/cvmfs/restricted.computecanada.ca/easybuild/software/2020/Core/intel/2020.1.217/compilers_and_libraries_2020.1.217/linux/bin/intel64/ifort
+
+ifort -O2               -c -o 1-s2.0-S002240731630111X-mmc3.o 1-s2.0-S002240731630111X-mmc3.f
+1-s2.0-S002240731630111X-mmc3.f(6858): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+  902 FORMAT('10^{0} &',A20,' &',1PD19.11,' (',D7.1,')',9(' &',
+------------------------------------------------^
+1-s2.0-S002240731630111X-mmc3.f(6844): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+  602 FORMAT(a20,2(1PD19.11,' (',D7.1,')':)/
+----------------------------------^
+1-s2.0-S002240731630111X-mmc3.f(6845): remark #8291: Recommended relationship between field width 'W' and the number of fractional digits 'D' in this edit descriptor is 'W>=D+7'.
+     1                               (20x,2(1PD19.11,' (',D7.1,')':)))
+-----------------------------------------------------------^
+ifort -O2              1-s2.0-S002240731630111X-mmc3.o -o 1-s2.0-S002240731630111X-mmc3.x

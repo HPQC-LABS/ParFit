@@ -1,0 +1,15 @@
+[nike@gra-login1 ParFit]$ which gfortran
+/cvmfs/soft.computecanada.ca/easybuild/software/2020/Core/gcccore/9.3.0/bin/gfortran
+
+gfortran       -O2               -c -o 1-s2.0-S002240731630111X-mmc3.o 1-s2.0-S002240731630111X-mmc3.f
+1-s2.0-S002240731630111X-mmc3.f:1989:72:
+
+ 1989 |    90     IF(ISTATE.LT.NSTATEMX) IPSTATE(ISTATE+1)= NPARM
+      |                                                                        1
+Warning: Fortran 2018 deleted feature: DO termination statement which is not END DO or CONTINUE with label 90 at (1)
+1-s2.0-S002240731630111X-mmc3.f:5707:72:
+
+ 5707 |    80                 LAMIN= 0
+      |                                                                        1
+Warning: Fortran 2018 deleted feature: DO termination statement which is not END DO or CONTINUE with label 80 at (1)
+gfortran       -O2              1-s2.0-S002240731630111X-mmc3.o -o 1-s2.0-S002240731630111X-mmc3.x
