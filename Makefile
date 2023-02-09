@@ -1,9 +1,10 @@
 # option to select compiler (intel 'ifort', or SUN 'f77', 'f90 or f95)
 #   as in :   make FC=ifort
 ifndef $FC
+FC = nagfor
 #  FC = f90             
-#   FC = gfortran      
-   FC = ifort
+#  FC = gfortran      
+#  FC = ifort
 endif
 #
 #option to choose level of optimization:  make debug=1
@@ -20,10 +21,10 @@ ifndef debug
 #
 # as usual, list the objects
 #
-OBJECTS = 1-s2.0-S002240731630111X-mmc3.o
+OBJECTS = parfit.o
 
 fit: $(OBJECTS)
-	$(FC) $(FFLAGS) $(OBJECTS) -o 1-s2.0-S002240731630111X-mmc3.x
+	$(FC) $(FFLAGS) $(OBJECTS) -o parfit.x
 # To run the code, execute:
 # ./level.x < input.5 > fort.6
 

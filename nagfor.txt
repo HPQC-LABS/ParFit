@@ -1,0 +1,180 @@
+nagfor -O2               -c -o parfit.o parfit.f
+NAG Fortran Compiler Release 7.1(Hanzomon) Build 7114
+Evaluation trial version of NAG Fortran Compiler Release 7.1(Hanzomon) Build 7114
+Non-standard(Obsolete): parfit.f, line 106: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 118: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 137: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 156: Byte count on numeric data type
+                        detected at *@4
+Non-standard(Obsolete): parfit.f, line 165: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 172: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 247: TAB format input
+Non-standard(Obsolete): parfit.f, line 2465: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 3276: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 3288: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 3310: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 3332: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 3978: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 3990: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 4192: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 4204: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 4244: Byte count on numeric data type
+                        detected at *@8
+Questionable: parfit.f, line 4367: Variable JMAX set but never referenced
+Questionable: parfit.f, line 4367: Variable JMIN set but never referenced
+Questionable: parfit.f, line 4367: Variable NTRANS set but never referenced
+Non-standard(Obsolete): parfit.f, line 4411: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 4501: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 4507: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 4532: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 4545: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 4685: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 4689: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 4697: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 4722: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 5026: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 5038: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 5056: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 5062: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 5086: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 5099: Byte count on numeric data type
+                        detected at *@8
+Questionable: parfit.f, line 5721: Variable DSWPDVS set but never referenced
+Questionable: parfit.f, line 5721: Variable DSWPPDVS set but never referenced
+Warning: parfit.f, line 5721: Unused dummy variable NDATA
+Warning: parfit.f, line 5721: Unused dummy variable PS
+Non-standard(Obsolete): parfit.f, line 5765: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 5777: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 5795: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 5799: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 5824: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 5837: Byte count on numeric data type
+                        detected at *@8
+Questionable: parfit.f, line 6185: Variable IPARDLIM set but never referenced
+Non-standard(Obsolete): parfit.f, line 6230: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 6242: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 6258: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 6455: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 6456: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 6461: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 6471: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 6496: Byte count on numeric data type
+                        detected at *@8
+Warning: parfit.f, line 6860: Unused local variable TST
+Warning: parfit.f, line 6860: Unused local variable UZPE
+Non-standard(Obsolete): parfit.f, line 6874: Byte count on numeric data type
+                        detected at *@8
+Questionable: parfit.f, line 6909: Variable UU set but never referenced
+Non-standard(Obsolete): parfit.f, line 6955: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 6967: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 6984: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 6989: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 7049: TAB format input
+Non-standard(Obsolete): parfit.f, line 7329: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 7388: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 7400: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 7415: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 7472: Byte count on numeric data type
+                        detected at *@8
+Warning: parfit.f, line 7517: Unused local variable XX
+Non-standard(Obsolete): parfit.f, line 7606: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 8029: Byte count on numeric data type
+                        detected at *@8
+Non-standard(Obsolete): parfit.f, line 8074: Byte count on numeric data type
+                        detected at *@8
+Obsolescent: parfit.f, line 16: Fixed source form
+Warning: parfit.f, line 77: Unused PARAMETER NROTMX
+Questionable: parfit.f, line 1471: DO index variable IBAND is in COMMON block /CASEBLK/
+Obsolescent: parfit.f, line 1989: DO 90 ends neither with CONTINUE nor ENDDO
+Error: parfit.f, line 2060: Argument X is REAL (should be DOUBLE PRECISION) in reference to the intrinsic DSQRT
+Warning: parfit.f, line 3247: Unused PARAMETER NPARMX
+Warning: parfit.f, line 3247: Unused PARAMETER NROTMX
+Warning: parfit.f, line 3949: Unused PARAMETER NPARMX
+Warning: parfit.f, line 4163: Unused PARAMETER NPARMX
+Warning: parfit.f, line 4163: Unused PARAMETER NROTMX
+Warning: parfit.f, line 4386: Unused PARAMETER NPARMX
+Warning: parfit.f, line 4386: Unused PARAMETER NDATAMX
+Warning: parfit.f, line 4386: Unused PARAMETER NBANDMX
+Warning: parfit.f, line 4386: Unused PARAMETER NVIBMX
+Warning: parfit.f, line 4386: Unused PARAMETER NDUNMX
+Warning: parfit.f, line 4386: Unused PARAMETER NROTMX
+Warning: parfit.f, line 4479: Unused PARAMETER NPARMX
+Warning: parfit.f, line 4479: Unused PARAMETER NDATAMX
+Warning: parfit.f, line 4479: Unused PARAMETER NROTMX
+Warning: parfit.f, line 4663: Unused PARAMETER NDATAMX
+Warning: parfit.f, line 4663: Unused PARAMETER NROTMX
+Warning: parfit.f, line 4997: Unused PARAMETER NPARMX
+Warning: parfit.f, line 4997: Unused PARAMETER NROTMX
+Obsolescent: parfit.f, line 5707: DO 80 ends neither with CONTINUE nor ENDDO
+Warning: parfit.f, line 5736: Unused PARAMETER NPARMX
+Warning: parfit.f, line 5736: Unused PARAMETER NROTMX
+Questionable: parfit.f, line 6150: CONTINUE statement with no label inside DO loop - did you mean CYCLE?
+Warning: parfit.f, line 6201: Unused PARAMETER NROTMX
+Warning: parfit.f, line 6432: Unused PARAMETER NDATAMX
+Warning: parfit.f, line 6432: Unused PARAMETER NROTMX
+Warning: parfit.f, line 6926: Unused PARAMETER NPARMX
+Warning: parfit.f, line 6926: Unused PARAMETER NVIBMX
+Warning: parfit.f, line 6926: Unused PARAMETER NROTMX
+Warning: parfit.f, line 7306: Unused PARAMETER NISTPMX
+Warning: parfit.f, line 7306: Unused PARAMETER NPARMX
+Warning: parfit.f, line 7306: Unused PARAMETER NBANDMX
+Warning: parfit.f, line 7306: Unused PARAMETER NVIBMX
+Warning: parfit.f, line 7306: Unused PARAMETER NSTATEMX
+Warning: parfit.f, line 7306: Unused PARAMETER NDUNMX
+Warning: parfit.f, line 7306: Unused PARAMETER NROTMX
+Warning: parfit.f, line 7359: Unused PARAMETER NPARMX
+Warning: parfit.f, line 7359: Unused PARAMETER NVIBMX
+Warning: parfit.f, line 7359: Unused PARAMETER NROTMX
+Error: parfit.f, line 7952: Argument X is REAL (should be DOUBLE PRECISION) in reference to the intrinsic DSQRT
+[NAG Fortran Compiler error termination, 2 errors, 114 warnings]
+<builtin>: recipe for target 'parfit.o' failed
+make: *** [parfit.o] Error 2
